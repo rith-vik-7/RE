@@ -31,7 +31,7 @@ section .text
     jle R
     cmp eax, 2
     jg M
-	  je D    
+    je D    
 
     M:
     mov eax, dword[ebp-0x4]
