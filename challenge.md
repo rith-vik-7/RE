@@ -1,6 +1,6 @@
 # Reverse Engineering  
 
-We were given with a ELF file, I went to gdb to debug that and found the function `strcmp` and got a string that it was comparing to.
+We were given with a [ELF file](https://discord.com/channels/753500984743034943/798073501927997451/809664766762942486), I went to gdb to debug that and found the function `strcmp` and got a string that it was comparing to.
 
 ![gdb](https://github.com/rith-vik-7/picture-dump/blob/main/Screenshot%20from%202021-02-14%2017-28-40.png)
 
